@@ -1,0 +1,1 @@
+{"jobID":"5630f10c-7158-a618-58f9-71fe8ae649d5","spec":{"type":"policy","cause":{"Message":"","User":"venkata nannapaneni \u003ckireetinannapaneni@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
